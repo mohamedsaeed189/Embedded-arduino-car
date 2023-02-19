@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg2"
+   viewBox="0 0 418.9685 248.22836"
+   version="1.2"
+   height="22.340551"
+   width="37.707165">
+  <metadata
+     id="metadata67">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs65">
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="EMFhbasepattern" />
+  </defs>
+  <desc
+     id="desc4">
+    <referenceFile>Optocoupler_TLP621_pcb.svg</referenceFile>
+  </desc>
+  <desc
+     id="desc3021">Fritzing footprint SVG</desc>
+  <g
+     transform="matrix(0.99923421,0,0,1,-1.9525826,20.364544)"
+     id="copper1">
+    <g
+       id="copper0">
+      <rect
+         id="rect3036"
+         style="fill:none;stroke:#ffbf00;stroke-width:20.00768471"
+         gorn="0.3.0.0.0.0.0.0"
+         x="69.08828"
+         y="26.51326"
+         height="55"
+         width="55" />
+      <circle
+         id="connector0pin"
+         cy="54.02137"
+         style="fill:none;stroke:#ffbf00;stroke-width:20.00768471"
+         gorn="0.3.0.0.0.0.0.1"
+         r="27.5"
+         cx="96.58828" />
+      <circle
+         r="27.5"
+         id="connector1pin"
+         cy="154.02138"
+         style="fill:none;stroke:#ffbf00;stroke-width:20.00768471"
+         gorn="0.3.0.0.0.0.0.3"
+         cx="96.593475" />
+      <circle
+         id="connector2pin"
+         cy="154.01326"
+         style="fill:none;stroke:#ffbf00;stroke-width:20.00768471"
+         gorn="0.3.0.0.0.0.0.4"
+         r="27.5"
+         cx="313.28964" />
+      <circle
+         id="connector3pin"
+         cy="54.01326"
+         style="fill:none;stroke:#ffbf00;stroke-width:20.00768471"
+         gorn="0.3.0.0.0.0.0.2"
+         r="27.5"
+         cx="313.28964" />
+    </g>
+  </g>
+  <g
+     transform="matrix(0.99923421,0,0,1,70.390754,-469.36699)"
+     id="silkscreen">
+    <line
+       id="line3024"
+       x1="-62.666454"
+       x2="-62.666454"
+       style="stroke:#000000;stroke-width:7.61339903"
+       gorn="0.2.0.0.0.0.0"
+       y2="707.57812"
+       y1="479.23166" />
+    <ellipse
+       cx="132.46658"
+       gorn="0.3.0.0.0.0.0.3"
+       style="fill:#000000;stroke:none"
+       cy="668.38275"
+       id="circle3366"
+       rx="49.250313"
+       ry="49.212601" />
+    <line
+       id="line3026"
+       x1="-62.468266"
+       x2="289.51486"
+       style="stroke:#000000;stroke-width:7.61339903"
+       gorn="0.2.0.0.0.0.1"
+       y2="707.77289"
+       y1="707.77289" />
+    <line
+       id="line3030"
+       x1="-64.602272"
+       x2="286.87112"
+       style="stroke:#000000;stroke-width:7.61339903"
+       gorn="0.2.0.0.0.0.3"
+       y2="479.44217"
+       y1="479.44217" />
+    <line
+       y1="548.46783"
+       y2="479.67026"
+       gorn="0.2.0.0.0.0.2"
+       style="stroke:#000000;stroke-width:7.61339903"
+       x2="286.92801"
+       x1="345.64606"
+       id="line3523" />
+    <line
+       id="line3525"
+       x1="288.95825"
+       x2="345.65466"
+       style="stroke:#000000;stroke-width:7.61339903"
+       gorn="0.2.0.0.0.0.2"
+       y2="642.97839"
+       y1="707.23822" />
+    <line
+       y1="547.46313"
+       y2="643.42084"
+       gorn="0.2.0.0.0.0.0"
+       style="stroke:#000000;stroke-width:7.61339951"
+       x2="345.03818"
+       x1="345.03818"
+       id="line3384" />
+    <ellipse
+       ry="49.212601"
+       rx="49.250313"
+       id="ellipse3372"
+       cy="518.57959"
+       style="fill:#000000;stroke:none"
+       gorn="0.3.0.0.0.0.0.3"
+       cx="132.46658" />
+    <ellipse
+       cx="-50.744576"
+       gorn="0.3.0.0.0.0.0.3"
+       style="fill:#000000;stroke:none"
+       cy="690.03625"
+       id="ellipse3374"
+       rx="19.700125"
+       ry="19.68504" />
+  </g>
+</svg>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806" icon="Mine.png">
+    <title>My Parts</title>
+    <instances>
+        <instance moduleIdRef="L298N motor driver_ed29594eba4fbd330bd92441a17764ea_15" modelIndex="7120" path="C:/Users/Mohamed/Documents/Fritzing/parts/user/L298N motor driver_ed29594eba4fbd330bd92441a17764ea_15.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="1x_18650_battery_holder_7fdbc419dae243128f12dd1168246f23_1" modelIndex="7512" path="C:/Users/Mohamed/Documents/Fritzing/parts/user/1x_18650_battery_holder_7fdbc419dae243128f12dd1168246f23_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="18650_mod_fdd9b7b593602aade887df405861b2a1_3" modelIndex="7517" path="C:/Users/Mohamed/Documents/Fritzing/parts/user/18650_mod_fdd9b7b593602aade887df405861b2a1_3.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="2x 18650 battery_44d66c0fc8bf94621dd6c8cfbbb2ac68_8" modelIndex="7522" path="C:/Users/Mohamed/Documents/Fritzing/parts/user/2x 18650 battery_44d66c0fc8bf94621dd6c8cfbbb2ac68_8.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="2x parallel 18650 battery_6295473b85b3f2f1c00fdfb87a46775d_1" modelIndex="7527" path="C:/Users/Mohamed/Documents/Fritzing/parts/user/2x parallel 18650 battery_6295473b85b3f2f1c00fdfb87a46775d_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="3x_18650_8179304888a1ad916fb6863c19feb348_7" modelIndex="7532" path="C:/Users/Mohamed/Documents/Fritzing/parts/user/3x_18650_8179304888a1ad916fb6863c19feb348_7.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="KY-033_430f73f7beb8c18f52c3941f1d4400ad_11" modelIndex="7627" path="C:/Users/Mohamed/Documents/Fritzing/parts/user/KY-033_430f73f7beb8c18f52c3941f1d4400ad_11.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="TCRT5000_b2c92626a222079aa3980a2d82f91bd7_1" modelIndex="7695" path="C:/Users/Mohamed/Documents/Fritzing/parts/user/TCRT5000_b2c92626a222079aa3980a2d82f91bd7_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="c26e1ac9f0aaab0c9a9ab60d4674c595_35" modelIndex="7700" path="C:/Users/Mohamed/Documents/Fritzing/parts/user/TCRT5000_sensor_module.fzp_c26e1ac9f0aaab0c9a9ab60d4674c595_35.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="KY-023_02b4fc53691639376d37c1cdf2405ea6_13" modelIndex="7897" path="C:/Users/Mohamed/Documents/Fritzing/parts/user/KY-023_02b4fc53691639376d37c1cdf2405ea6_13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="2.8lcd_39de3ee585f2ffe550adae879937fb0f_8" modelIndex="8347" path="C:/Users/Mohamed/Documents/Fritzing/parts/user/2.8lcd_39de3ee585f2ffe550adae879937fb0f_8.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Elegoo 2.8_e42483ace129b1487cf4cdc85275ac66_19" modelIndex="8352" path="C:/Users/Mohamed/Documents/Fritzing/parts/user/Elegoo 2.8_e42483ace129b1487cf4cdc85275ac66_19.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="elegoo-2.8in-tft-display_5c74d04fb76ba1ba346af7b71a29eac6_1" modelIndex="8357" path="C:/Users/Mohamed/Documents/Fritzing/parts/user/elegoo-2.8in-tft-display_5c74d04fb76ba1ba346af7b71a29eac6_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="hx8357_1" modelIndex="8362" path="C:/Users/Mohamed/Documents/Fritzing/parts/user/hx8357_1.fzp">
+            <views/>
+        </instance>
+    </instances>
+</module>

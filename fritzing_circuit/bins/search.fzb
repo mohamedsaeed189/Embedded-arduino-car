@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806" icon="Search.png" search="buzzer">
+    <title>Search</title>
+    <instances>
+        <instance moduleIdRef="8abf6496b5d466c7a1893c17a296a676" modelIndex="8623" path="E:/fritzing.0.9.3b.64.pc/fritzing-parts/core/piezo sensor.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-BUZZER-NS" modelIndex="8624" path="E:/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-electromechanical-buzzer-ns.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="RFID_USB_Reader-v14" modelIndex="8626" path="E:/fritzing.0.9.3b.64.pc/fritzing-parts/core/RFID_USB_Reader-v14.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="LilyPad-slide-switch13" modelIndex="8627" path="E:/fritzing.0.9.3b.64.pc/fritzing-parts/core/LilyPad-slide-switch13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Buzzer-v15" modelIndex="8628" path="E:/fritzing.0.9.3b.64.pc/fritzing-parts/core/Buzzer-v15.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-BUZZER-SMD3" modelIndex="8629" path="E:/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-electromechanical-buzzer-smd3.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-BUZZER-SMD2-KIT" modelIndex="8631" path="E:/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-electromechanical-buzzer-smd2-kit.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-BUZZER-PTH" modelIndex="8633" path="E:/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-electromechanical-buzzer-pth.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-BUZZER-SMD2" modelIndex="8635" path="E:/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-electromechanical-buzzer-smd2.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-BUZZER-PTH-NS-KIT" modelIndex="8637" path="E:/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-electromechanical-buzzer-pth-ns-kit.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-BUZZER-SMD" modelIndex="8639" path="E:/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-electromechanical-buzzer-smd.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+    </instances>
+</module>

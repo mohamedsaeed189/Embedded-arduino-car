@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns="http://www.w3.org/2000/svg"  version="1.2" width="3.0487299in" viewBox="0 0 3048.73 816.11093" height="0.81611091in" id="svg55" y="0in" gorn="0" x="0in">
+    <metadata  id="metadata61">
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <cc:Work xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" rdf:about="">
+                <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+                <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <defs  id="defs59"/>
+    <desc  id="desc2">
+        <referenceFile >18650-battery-holder-alt_1_pcb.svg</referenceFile>
+    </desc>
+    <g  id="silkscreen" gorn="0.3">
+        <line  x1="2064.6846" stroke-width="10" stroke="#000000" y1="310.3569" x2="1014.9031" id="line30" stroke-linecap="round" gorn="0.3.0" y2="310.3569"/>
+        <line  x1="1014.9031" stroke-width="10" stroke="#000000" y1="310.3569" x2="1014.9031" id="line32" stroke-linecap="round" gorn="0.3.1" y2="387.35684"/>
+        <line  x1="1014.9031" stroke-width="10" stroke="#000000" y1="387.35684" x2="1014.9031" id="line34" stroke-linecap="round" gorn="0.3.2" y2="437.35681"/>
+        <line  x1="1014.9031" stroke-width="10" stroke="#000000" y1="437.35681" x2="1014.9031" id="line36" stroke-linecap="round" gorn="0.3.3" y2="510.35672"/>
+        <line  x1="1014.9031" stroke-width="10" stroke="#000000" y1="510.35672" x2="2064.6846" id="line38" stroke-linecap="round" gorn="0.3.4" y2="510.35672"/>
+        <line  x1="2064.6846" stroke-width="10" stroke="#000000" y1="510.35672" x2="2064.6846" id="line40" stroke-linecap="round" gorn="0.3.5" y2="310.3569"/>
+        <line  x1="1014.9031" stroke-width="10" stroke="#000000" y1="387.35684" x2="964.91351" id="line42" stroke-linecap="round" gorn="0.3.6" y2="387.35684"/>
+        <line  x1="964.91351" stroke-width="10" stroke="#000000" y1="387.35684" x2="964.91351" id="line44" stroke-linecap="round" gorn="0.3.7" y2="437.35681"/>
+        <line  x1="964.91351" stroke-width="10" stroke="#000000" y1="437.35681" x2="1014.9031" id="line46" stroke-linecap="round" gorn="0.3.8" y2="437.35681"/>
+        <line  x1="1989.7003" stroke-width="10" stroke="#000000" y1="410.35681" x2="1939.7107" id="line48" stroke-linecap="round" gorn="0.3.9" y2="410.35681"/>
+        <line  x1="1139.8771" stroke-width="10" stroke="#000000" y1="410.35681" x2="1089.8875" id="line50" stroke-linecap="round" gorn="0.3.10" y2="410.35681"/>
+        <line  x1="1114.8822" stroke-width="10" stroke="#000000" y1="385.35684" x2="1114.8822" id="line52" stroke-linecap="round" gorn="0.3.11" y2="435.35681"/>
+        <line  x1="3040.8943" stroke-width="10" stroke="#000000" x2="2665.9724" y1="4.9994836" id="line18" stroke-linecap="round" gorn="0.3.12" y2="4.9994836"/>
+        <line  x1="2665.9724" stroke-width="10" stroke="#000000" x2="3040.8943" y1="805.92645" id="line20" stroke-linecap="round" gorn="0.3.13" y2="805.92645"/>
+        <line  x1="3043.7297" stroke-width="10" stroke="#000000" x2="3043.7297" y1="805.00116" id="line22" stroke-linecap="round" gorn="0.3.14" y2="6.3192506"/>
+        <line  x1="379.99216" stroke-width="10" stroke="#000000" x2="5.070178" y1="811.11066" id="line24" stroke-linecap="round" gorn="0.3.15" y2="811.11066"/>
+        <line  x1="4.9994836" stroke-width="10" stroke="#000000" x2="4.9994836" y1="811.05353" id="line26" stroke-linecap="round" gorn="0.3.16" y2="9.4495525"/>
+        <line  x1="5.6629376" stroke-width="10" stroke="#000000" x2="380.58493" y1="6.5897708" id="line28" stroke-linecap="round" gorn="0.3.17" y2="6.5897708"/>
+    </g>
+    <g  id="copper1" gorn="0.4">
+        <g  id="copper0" gorn="0.4.0">
+            <circle  cx="2610.5476" stroke-width="0" connectorname="GND@2" id="nonconn0" fill="#000000" r="62.999943" gorn="0.4.0.0" cy="410.47156"/>
+            <circle  cx="420.79974" stroke-width="0" connectorname="PWR@2" id="nonconn1" fill="#000000" r="62.999943" gorn="0.4.0.1" cy="410.47156"/>
+            <circle  cx="83.3004" stroke-width="9.99999" stroke="#f7bd13" fill="none" id="connector0pin" r="41.499962" gorn="0.4.0.2" cy="410.3172"/>
+            <circle  cx="2952.2971" stroke-width="9.99999" stroke="#f7bd13" fill="none" id="connector1pin" r="41.499962" gorn="0.4.0.3" cy="410.97159"/>
+        </g>
+    </g>
+</svg>
